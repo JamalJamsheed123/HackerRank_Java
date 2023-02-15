@@ -19,7 +19,7 @@
 // 8 14 26 50 98
 
 
-package JAVA;
+
 
 import java.util.*;
 

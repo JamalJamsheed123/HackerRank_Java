@@ -7,13 +7,12 @@
 // Sample Input
 // Hello world
 // I am a file
-// Read me until end-of-file.
+// Read me until end-of-file.z
 // Sample Output
 // 1 Hello world
 // 2 I am a file
 // 3 Read me until end-of-file.
 
-package JAVA;
 
 import java.util.Scanner;
 

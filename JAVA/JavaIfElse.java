@@ -20,7 +20,7 @@
 // Sample Output 1
 // Not Weird
 
-package JAVA;
+
 import java.util.*;
 
 public class JavaIfElse {

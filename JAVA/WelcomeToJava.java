@@ -13,7 +13,7 @@
 // Hello, World.
 // Hello, Java.
 
-package JAVA;
+
 
 public class WelcomeToJava {
 

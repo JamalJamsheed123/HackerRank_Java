@@ -1,0 +1,91 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaIfElse",
+            "request": "launch",
+            "mainClass": "JavaIfElse",
+            "projectName": "HackerRank_75d6a5de"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaIntToString",
+            "request": "launch",
+            "mainClass": "JavaIntToString",
+            "projectName": "HackerRank_75d6a5de"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaStaticInitializer",
+            "request": "launch",
+            "mainClass": "JavaStaticInitializer",
+            "projectName": "HackerRank_75d6a5de"
+        },
+        {
+            "type": "java",
+            "name": "Launch Java_Datatypes",
+            "request": "launch",
+            "mainClass": "Java_Datatypes",
+            "projectName": "HackerRank_75d6a5de"
+        },
+        {
+            "type": "java",
+            "name": "Launch Java_EndOfFile",
+            "request": "launch",
+            "mainClass": "Java_EndOfFile",
+            "projectName": "HackerRank_75d6a5de"
+        },
+        {
+            "type": "java",
+            "name": "Launch Java_Loop_1",
+            "request": "launch",
+            "mainClass": "Java_Loop_1",
+            "projectName": "HackerRank_75d6a5de"
+        },
+        {
+            "type": "java",
+            "name": "Launch Java_Loop_2",
+            "request": "launch",
+            "mainClass": "Java_Loop_2",
+            "projectName": "HackerRank_75d6a5de"
+        },
+        {
+            "type": "java",
+            "name": "Launch Output_Formatting",
+            "request": "launch",
+            "mainClass": "Output_Formatting",
+            "projectName": "HackerRank_75d6a5de"
+        },
+        {
+            "type": "java",
+            "name": "Launch Stdin_Stdout_1",
+            "request": "launch",
+            "mainClass": "Stdin_Stdout_1",
+            "projectName": "HackerRank_75d6a5de"
+        },
+        {
+            "type": "java",
+            "name": "Launch Stdin_Stdout_2",
+            "request": "launch",
+            "mainClass": "Stdin_Stdout_2",
+            "projectName": "HackerRank_75d6a5de"
+        },
+        {
+            "type": "java",
+            "name": "Launch WelcomeToJava",
+            "request": "launch",
+            "mainClass": "WelcomeToJava",
+            "projectName": "HackerRank_75d6a5de"
+        }
+    ]
+}

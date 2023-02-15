@@ -11,7 +11,7 @@
 // python         050 
 // ================================
 
-package JAVA;
+
 
 import java.util.Scanner;
 

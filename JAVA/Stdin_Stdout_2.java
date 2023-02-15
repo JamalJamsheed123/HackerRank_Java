@@ -21,7 +21,7 @@
 // Double: 3.1415
 // Int: 42
 
-package JAVA;
+
 
 import java.util.Scanner;
 
